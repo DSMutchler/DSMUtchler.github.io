@@ -1,0 +1,38 @@
+[
+		{
+			"title": "Dolphin Pacific",
+			"description": "Dolphins Pacific is the world's largest marine mammal interaction, educational, and research facility. Located on the northern side of Ngeruktabel Island in the Republic of Palau.",
+			"image": "https://images.unsplash.com/photo-1513545405020-acc24d818ffc?ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80",
+			"website": "http://dolphinspacific.com/en/index.php",
+			"details": [
+        {"phone" : "680-488-8586",
+        "priceRange" : "$30.00 - $800.00",
+        "officeHours":"M-F (9a-5p)"
+        }
+      ]	 
+		},
+		{
+		  "title": "Dolphin Pacific",
+			"description": "Dolphins Pacific is the world's largest marine mammal interaction, educational, and research facility. Located on the northern side of Ngeruktabel Island in the Republic of Palau.",
+			"image": "https://images.unsplash.com/photo-1513545405020-acc24d818ffc?ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80",
+			"website": "http://dolphinspacific.com/en/index.php",
+			"details": [
+        {"phone" : "680-488-8586",
+        "priceRange" : "$30.00 - $800.00",
+        "officeHours":"M-F (9a-5p)"
+        }
+      ]				 
+		},	
+		{
+      "title": "Dolphin Pacific",
+			"description": "Dolphins Pacific is the world's largest marine mammal interaction, educational, and research facility. Located on the northern side of Ngeruktabel Island in the Republic of Palau.",
+			"image": "https://images.unsplash.com/photo-1513545405020-acc24d818ffc?ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80",
+			"website": "http://dolphinspacific.com/en/index.php",
+			"details": [
+        {"phone" : "680-488-8586",
+        "priceRange" : "$30.00 - $800.00",
+        "officeHours":"M-F (9a-5p)"
+        }
+      ]		 
+    }		 
+]
