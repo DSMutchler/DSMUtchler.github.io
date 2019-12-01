@@ -1,7 +1,7 @@
 [
 		{
 			"title": "Dolphin Pacific",
-			"description": "Dolphins Pacific is the world's largest marine mammal interaction, educational, and research facility. Located on the northern side of Ngeruktabel Island in the Republic of Palau.",
+			"shortDescription": "Dolphins Pacific is the world's largest marine mammal interaction, educational, and research facility. Located on the northern side of Ngeruktabel Island in the Republic of Palau.",
 			"details": {
 			    "phone":"680-488-8586",
 			    "hours" : "M-F (9a-5p)",
@@ -12,7 +12,7 @@
 		},
 		{
 			"title": "Sam's Tour",
-			"description": "SAM'S TOURS is known to be Palau's premier dive center providing PADI 5-Star Instructor Development Center.",
+			"shortDescription": "SAM'S TOURS is known to be Palau's premier dive center providing PADI 5-Star Instructor Development Center.",
 			"details": {
 			    "phone":"680-488-7267",
 			    "hours" : "M-F (7:30a-6p)",
@@ -23,7 +23,7 @@
 		},	
 		{
 			"title": "Swing's Tour",
-			"description": "Provide customised private charter boat and tour services. The most authentic way to experience a Palau is with a small group led by a local guide.",
+			"shortDescription": "Provide customised private charter boat and tour services. The most authentic way to experience a Palau is with a small group led by a local guide.",
 			"details": {
 			    "phone":"680-488-4098",
 			    "hours" : "M-F (9a-5p)",
