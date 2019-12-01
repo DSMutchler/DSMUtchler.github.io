@@ -7,7 +7,7 @@
             "hours" : "M-F (9a-5p)",
             "ratings" : 4
         },
-        "photo": "https://images.unsplash.com/photo-1487252333087-c353573e2b7c",
+        "photo": "https://dsmutchler.github.io/dolphin.jpg",
         "webstie": "http://dolphinspacific.com/en/index.php"
     },
     {
@@ -18,7 +18,7 @@
             "hours" : "M-F (7:30a-6p)",
             "ratings" : 4.5
         },
-        "photo": "https://images.unsplash.com/photo-1544551763-8485fc927679?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+        "photo": "https://dsmutchler.github.io/samsTour.jpg",
         "webstie": "http://www.samstours.com/"				 
     },	
     {
@@ -29,7 +29,7 @@
             "hours" : "M-F (9a-5p)",
             "ratings" : 5
         },
-        "photo": "https://images.unsplash.com/photo-1516712587762-b7dd9c30e8fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=80",
+        "photo": "https://dsmutchler.github.io/swingsTours.jpg",
         "webstie": "http://swingspalautours.com/"			 
 }		
 ]
