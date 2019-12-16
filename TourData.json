@@ -7,7 +7,7 @@
 			    "hours" : "M-F (9a-5p)",
 			    "ratings" : 4.0
 			},
-			"photo": "https://dsmutchler.github.io/dolphin.jpg",
+			"photo": "https://dsmutchler.github.io/dolphin.png",
 			"website": "http://dolphinspacific.com/en/index.php"
 		},
 		{
@@ -18,7 +18,7 @@
 			    "hours" : "M-F (7:30a-6p)",
 			    "ratings" : 4.5
 			},
-			"photo": "https://dsmutchler.github.io/samsTour.jpg",
+			"photo": "https://dsmutchler.github.io/samsTour.png",
 			"website": "http://www.samstours.com/"				 
 		},	
 		{
@@ -29,7 +29,7 @@
 			    "hours" : "M-F (9a-5p)",
 			    "ratings" : 5.0
 			},
-			"photo": "https://dsmutchler.github.io/swingsTours.jpg",
+			"photo": "https://dsmutchler.github.io/swingsTours.png",
 			"website": "http://swingspalautours.com/"			 
     }		
 ]
